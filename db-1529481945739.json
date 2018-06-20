@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 9837293,
+      "firstName": "Zoie",
+      "lastName": "Price",
+      "email": "Giles.Lemke39@yahoo.com"
+    },
+    {
+      "id": 35861401,
+      "firstName": "Johnnie",
+      "lastName": "Bernier",
+      "email": "Jamison57@hotmail.com"
+    },
+    {
+      "id": 68716118,
+      "firstName": "Presley",
+      "lastName": "Zulauf",
+      "email": "Maia69@gmail.com"
+    },
+    {
+      "id": 83572095,
+      "firstName": "Keagan",
+      "lastName": "Tromp",
+      "email": "Amos63@yahoo.com"
+    },
+    {
+      "id": 55795414,
+      "firstName": "Eliseo",
+      "lastName": "Ernser",
+      "email": "Odie99@hotmail.com"
+    }
+  ]
+}
