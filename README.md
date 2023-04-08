@@ -1,2 +1,1 @@
-# javascript_envdemo
-creating js demo
+A repository to set up basic JS environment for basic app startup 
